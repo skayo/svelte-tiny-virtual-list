@@ -27,8 +27,8 @@ importers:
         specifier: 8.56.12
         version: 8.56.12
       beercss:
-        specifier: 3.6.13
-        version: 3.6.13
+        specifier: 3.9.4
+        version: 3.9.4
       eslint:
         specifier: 8.57.1
         version: 8.57.1
@@ -824,8 +824,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  beercss@3.6.13:
-    resolution: {integrity: sha512-U9BO4s6azfV54xcsMLslfVYajkihVn41IzeN0FI/ZZzimrh8DB3s3X/sfMDxSqVOfoZv3MDaM6CyqKNn7s6gnQ==}
+  beercss@3.9.4:
+    resolution: {integrity: sha512-vfzVoxPSeZ1rm8fUCUmmzAtebw8j58WDdNr59dUSZJ1rr4nFNtxVhC9dFt5HLkK4gMU61GHMh5UulQAn6sPe7A==}
 
   binary-extensions@2.2.0:
     resolution: {integrity: sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==}
@@ -2511,7 +2511,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  beercss@3.6.13:
+  beercss@3.9.4:
     dependencies:
       material-dynamic-colors: 1.1.2
 
